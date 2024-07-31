@@ -24,16 +24,16 @@
 define( 'DB_NAME', 'hipldemo1_passionsdev' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
-// define( 'DB_USER', 'hipldemo1_passionsdev' );
+// define( 'DB_USER', 'root' );
+define( 'DB_USER', 'hipldemo1_passionsdev' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
-// define( 'DB_PASSWORD', 'WASbLzm-c6;9' );
+// define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'WASbLzm-c6;9' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
-// define( 'DB_HOST', 'localhost:3306' );
+// define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'localhost:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
